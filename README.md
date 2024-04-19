@@ -4,7 +4,7 @@
 </p>
 
 <br><br>![Profile views](https://komarev.com/ghpvc/?username=Vaibhav-cls&color=green)
-[![Github](https://img.shields.io/github/followers/GeekLord04?label=Follow&style=social)](https://github.com/Vaibhav-cls)<br>
+[![Github](https://img.shields.io/github/followers/Vaibhav-cls?label=Follow&style=social)](https://github.com/Vaibhav-cls)<br>
 <hr>
 <br>
 <div align="center" width="100%">
