@@ -8,11 +8,13 @@
 <hr>
 <br>
 <div align="center" width=100%>
-  <a href="https://github.com/Vaibhav-cls/github-readme-stats">
+  
 <!-- div> [](https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=prussian&hide_border=true)<br/> </div -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-cls&layout=compact)](https://github.com/Vaibhav-cls/github-readme-stats)
+
 </div>
 <div align="center" width="100%">
+  <a href="https://github.com/Vaibhav-cls/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-cls&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-cls&" alt="Vaibhav-cls" /></p>
 </div>
