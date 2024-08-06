@@ -58,3 +58,4 @@
     <img title="MonogDb" height="50" src="https://icons8.com/icon/74402/mongodb">
     <img title="SQL" height="50" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server">
 </div>
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
