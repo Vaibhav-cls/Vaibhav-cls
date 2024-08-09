@@ -16,7 +16,7 @@
 <div align="center" width="100%">
   <a href="https://github.com/Vaibhav-cls/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-cls&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-cls&" alt="Vaibhav-cls" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-cls" alt="Vaibhav-cls" /></p>
 </div>
 
 
