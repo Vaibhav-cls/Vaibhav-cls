@@ -10,7 +10,7 @@
 <div align="center" width=100%>
   
 <!--div> [](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-cls&theme=prussian&hide_border=true)<br/> </div -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-cls&layout=compact)](https://github.com/Vaibhav-cls/github-readme-stats)
+![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Vaibhav-cls&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
 
 </div>
 <div align="center" width="100%">
