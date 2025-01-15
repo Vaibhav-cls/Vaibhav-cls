@@ -16,8 +16,8 @@
 <div align="center" width="100%">
   <a href="https://github.com/Vaibhav-cls/github-readme-stats">
   <img align="center" src="https://github-readme-stats-dosx001.vercel.app/api/?username=Vaibhav-cls&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=00e7ff&text_color=9f9f9f&bg_color=151515" />
-  <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-cls" alt="Vaibhav-cls" /></p-->
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Vaibhav-cls&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <p><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Vaibhav-cls&count_private=true&theme=react&border_radius=10" alt="streak stats"/></p>
+    
 </div>
 
 
